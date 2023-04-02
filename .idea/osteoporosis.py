@@ -21,3 +21,6 @@ data_osteoporosis.tail()
 print(data_osteoporosis.head())
 
 print(data_osteoporosis.tail())
+
+
+# надо поработать над фичами
